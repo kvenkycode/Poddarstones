@@ -1,0 +1,23 @@
+.smallheadtitle{
+    position: absolute;
+    left: 0;
+    text-transform: uppercase;
+    color: #737057;
+    transform: rotate(90deg)(50px, -50px);
+    letter-spacing: 6px;
+    font-size: 12px;
+    top: calc(634px - 25px); 
+    height: auto;
+    margin: 0 auto;
+    width: 180px;
+    display: flex;
+    justify-content: center; 
+    transform: rotate(90deg) translate(-210%, 320%);
+}
+.videoplayhd{
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 83px;
+    letter-spacing: -2px;
+    margin-bottom: 30px;
+}
