@@ -2,7 +2,7 @@
 import React, { useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import About from "./pages/about";
+import About from "./pages/About";
 import NavBar from "./components/Navbar"; 
 import "./App.css";
 import FooterSection from "./components/footer";
