@@ -8,7 +8,21 @@
   box-sizing: 0;
  }
 
-
+ul,ol{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
  h1,h2,h3,h4,h5,h6{
   font-family: "Playfair Display", serif;
+ }
+ p,span,label{
+    font-family: "Poppins", sans-serif;
+ }
+ .sectionwrapper{
+   padding:70px 0 50px;
+   position: relative;
+ }
+ .videobg{
+   background: url("../public/assets/herosectionimg/videoplay.jpg");
  }
