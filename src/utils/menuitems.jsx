@@ -12,5 +12,5 @@ const menuData = [
     { id: 10, key: "faqs", label: "FAQs" }
   ];
   
-  export default menuData;
+  export default menuData;  
   
